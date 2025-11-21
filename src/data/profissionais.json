@@ -1,0 +1,3647 @@
+[
+  {
+    "id": 1,
+    "nome": "Gustavo Araújo",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Product Designer",
+    "resumo": "Profissional especializado em segurança com experiência em Angular e Redis",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Angular",
+      "GitLab",
+      "Python",
+      "Redis",
+      "AWS"
+    ],
+    "softSkills": [
+      "Organização",
+      "Empatia",
+      "Visão estratégica",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Product Designer",
+        "inicio": "2022-08",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em segurança"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma X",
+        "link": "https://github.com/gustavoaraújo/projeto",
+        "descricao": "Projeto desenvolvido utilizando Python e Redis"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de Software",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Juliana Barbosa",
+    "foto": "https://i.pravatar.cc/150?img=2",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional especializado em qualidade com experiência em MongoDB e MongoDB",
+    "localizacao": "Recife/PE",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Azure",
+      "Ansible",
+      "PostgreSQL",
+      "Jenkins",
+      "React Native",
+      "MongoDB",
+      "Go"
+    ],
+    "softSkills": [
+      "Organização",
+      "Mentoria",
+      "Visão estratégica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-12",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Sistema Z",
+        "link": "https://github.com/julianabarbosa/projeto",
+        "descricao": "Projeto desenvolvido utilizando MongoDB e Go"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Inovação",
+      "Segurança",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Bruna Almeida",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "Arquiteto de Software",
+    "resumo": "Profissional especializado em segurança com experiência em MongoDB e Vue.js",
+    "localizacao": "Curitiba/PR",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Swift",
+      "TypeScript",
+      "Vue.js",
+      "MySQL",
+      "Ruby",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Criatividade",
+      "Mentoria",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2020-02",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em segurança"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma Y",
+        "link": "https://github.com/brunaalmeida/projeto",
+        "descricao": "Projeto desenvolvido utilizando MongoDB e Ruby"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Pedro Oliveira",
+    "foto": "https://i.pravatar.cc/150?img=4",
+    "cargo": "Product Manager",
+    "resumo": "Profissional especializado em qualidade com experiência em Kotlin e Elasticsearch",
+    "localizacao": "Recife/PE",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Elasticsearch",
+      "Microservices",
+      "PHP",
+      "AWS",
+      "Go",
+      "Kotlin",
+      "CI/CD",
+      "PostgreSQL"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Liderança",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Product Manager",
+        "inicio": "2021-02",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Z",
+        "link": "https://github.com/pedrooliveira/projeto",
+        "descricao": "Projeto desenvolvido utilizando Kotlin e CI/CD"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "DevOps",
+      "Agile",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Mariana Mendes",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Cybersecurity Analyst",
+    "resumo": "Profissional especializado em qualidade com experiência em Ansible e Elasticsearch",
+    "localizacao": "Curitiba/PR",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "PostgreSQL",
+      "Go",
+      "Ansible",
+      "Elasticsearch"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Cybersecurity Analyst",
+        "inicio": "2023-05",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFRJ",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma Beta",
+        "link": "https://github.com/marianamendes/projeto",
+        "descricao": "Projeto desenvolvido utilizando Elasticsearch e Go"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX/UI",
+      "Agile",
+      "Educação"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Jessica Moreira",
+    "foto": "https://i.pravatar.cc/150?img=6",
+    "cargo": "Cloud Architect",
+    "resumo": "Profissional especializado em infraestrutura com experiência em Swift e Vue.js",
+    "localizacao": "Brasília/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Elasticsearch",
+      "React",
+      "Kubernetes",
+      "Vue.js",
+      "Swift",
+      "GitHub Actions"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Comunicação",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Cloud Architect",
+        "inicio": "2021-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma X",
+        "link": "https://github.com/jessicamoreira/projeto",
+        "descricao": "Projeto desenvolvido utilizando Kubernetes e Kubernetes"
+      }
+    ],
+    "certificacoes": [
+      "PMI Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de Software",
+      "Educação",
+      "UX/UI"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Eduardo Rodrigues",
+    "foto": "https://i.pravatar.cc/150?img=7",
+    "cargo": "Business Analyst",
+    "resumo": "Profissional especializado em desenvolvimento com experiência em GCP e GCP",
+    "localizacao": "Brasília/DF",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Angular",
+      "MongoDB",
+      "GCP",
+      "Node.js",
+      "React Native",
+      "C#",
+      "React"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Organização",
+      "Negociação",
+      "Mentoria",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Business Analyst",
+        "inicio": "2020-04",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em desenvolvimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Leonardo Araújo",
+    "foto": "https://i.pravatar.cc/150?img=8",
+    "cargo": "Arquiteto de Software",
+    "resumo": "Profissional especializado em gestão com experiência em AWS e Go",
+    "localizacao": "Brasília/DF",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Java",
+      "MySQL",
+      "AWS",
+      "Docker",
+      "C#",
+      "Go",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Proatividade",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2021-01",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em gestão"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma Beta",
+        "link": "https://github.com/leonardoaraújo/projeto",
+        "descricao": "Projeto desenvolvido utilizando TypeScript e Java"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Big Data",
+      "Segurança"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Tatiana Mendes",
+    "foto": "https://i.pravatar.cc/150?img=9",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional especializado em dados com experiência em GraphQL e Angular",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "PHP",
+      "Angular",
+      "PostgreSQL",
+      "Ansible",
+      "Python",
+      "React Native",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Criatividade",
+      "Negociação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Scrum Master",
+        "inicio": "2022-03",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Y",
+        "link": "https://github.com/tatianamendes/projeto",
+        "descricao": "Projeto desenvolvido utilizando PHP e Python"
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Cloud Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Inovação",
+      "Sustentabilidade",
+      "UX/UI"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Bruna Barbosa",
+    "foto": "https://i.pravatar.cc/150?img=10",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional especializado em infraestrutura com experiência em CI/CD e Python",
+    "localizacao": "Fortaleza/CE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "GitLab",
+      "Azure",
+      "CI/CD",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Mentoria",
+      "Proatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-04",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Z",
+        "link": "https://github.com/brunabarbosa/projeto",
+        "descricao": "Projeto desenvolvido utilizando Azure e CI/CD"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Design Thinking",
+      "Segurança",
+      "Mobile Development"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Luciana Almeida",
+    "foto": "https://i.pravatar.cc/150?img=11",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional especializado em design com experiência em Terraform e MySQL",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "MySQL",
+      "GraphQL",
+      "Ruby",
+      "C#",
+      "React Native",
+      "CI/CD",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Análise crítica",
+      "Adaptabilidade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Scrum Master",
+        "inicio": "2023-05",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Z",
+        "link": "https://github.com/lucianaalmeida/projeto",
+        "descricao": "Projeto desenvolvido utilizando Ruby e CI/CD"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de Software",
+      "Machine Learning",
+      "Mobile Development",
+      "Segurança"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Luciana Martins",
+    "foto": "https://i.pravatar.cc/150?img=12",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "Profissional especializado em infraestrutura com experiência em GitLab e Vue.js",
+    "localizacao": "Fortaleza/CE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "GitHub Actions",
+      "Vue.js",
+      "GitLab"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Empatia",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2021-03",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "PUCRS",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Y",
+        "link": "https://github.com/lucianamartins/projeto",
+        "descricao": "Projeto desenvolvido utilizando Vue.js e Vue.js"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud Computing",
+      "Inovação",
+      "Big Data"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Guilherme Lima",
+    "foto": "https://i.pravatar.cc/150?img=13",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional especializado em desenvolvimento com experiência em GitHub Actions e MongoDB",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GCP",
+      "GitHub Actions",
+      "Elasticsearch",
+      "MongoDB",
+      "Microservices",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Mentoria",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Mobile Developer",
+        "inicio": "2022-01",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em desenvolvimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Microsoft Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Machine Learning",
+      "Educação",
+      "Segurança",
+      "UX/UI"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Gabriel Santos",
+    "foto": "https://i.pravatar.cc/150?img=14",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional especializado em dados com experiência em PHP e GraphQL",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Java",
+      "PHP",
+      "Elasticsearch",
+      "Angular",
+      "GraphQL",
+      "Redis",
+      "React Native"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Scrum Master",
+        "inicio": "2022-10",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "PMI Certified",
+      "Google Cloud Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de Software",
+      "IA ética",
+      "DevOps"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Juliana Moreira",
+    "foto": "https://i.pravatar.cc/150?img=15",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional especializado em gestão com experiência em Terraform e Jenkins",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Redis",
+      "Terraform",
+      "PostgreSQL",
+      "Jenkins"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Adaptabilidade",
+      "Visão estratégica",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-08",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em gestão"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "UNICAMP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "PMI Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Agile",
+      "Arquitetura de Software",
+      "Segurança"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Bruno Santos",
+    "foto": "https://i.pravatar.cc/150?img=16",
+    "cargo": "Desenvolvedor Backend",
+    "resumo": "Profissional especializado em qualidade com experiência em Kubernetes e GitHub Actions",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "MongoDB",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript",
+      "Terraform",
+      "Flutter",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Análise crítica",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Desenvolvedor Backend",
+        "inicio": "2021-03",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma Alpha",
+        "link": "https://github.com/brunosantos/projeto",
+        "descricao": "Projeto desenvolvido utilizando Terraform e Kubernetes"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Mobile Development",
+      "Arquitetura de Software",
+      "DevOps",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Bruna Souza",
+    "foto": "https://i.pravatar.cc/150?img=17",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional especializado em qualidade com experiência em TypeScript e TypeScript",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "TypeScript",
+      "GraphQL",
+      "GitHub Actions",
+      "Java",
+      "Redis"
+    ],
+    "softSkills": [
+      "Organização",
+      "Análise crítica",
+      "Trabalho em equipe",
+      "Mentoria",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Mobile Developer",
+        "inicio": "2020-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Beta",
+        "link": "https://github.com/brunasouza/projeto",
+        "descricao": "Projeto desenvolvido utilizando GraphQL e TypeScript"
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Certified",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Big Data",
+      "DevOps"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Ricardo Nascimento",
+    "foto": "https://i.pravatar.cc/150?img=18",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Profissional especializado em dados com experiência em Ruby e TypeScript",
+    "localizacao": "Campinas/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Go",
+      "Ruby",
+      "TypeScript",
+      "Flutter",
+      "Jenkins"
+    ],
+    "softSkills": [
+      "Organização",
+      "Mentoria",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2022-04",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "PUC-SP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Design Thinking",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Luciana Ribeiro",
+    "foto": "https://i.pravatar.cc/150?img=19",
+    "cargo": "Cloud Architect",
+    "resumo": "Profissional especializado em gestão com experiência em Swift e Swift",
+    "localizacao": "Recife/PE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Ansible",
+      "REST API",
+      "Swift",
+      "TypeScript",
+      "Angular",
+      "React Native",
+      "React"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Negociação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Cloud Architect",
+        "inicio": "2021-11",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em gestão"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFRJ",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud Certified",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Mobile Development",
+      "Machine Learning",
+      "DevOps",
+      "Arquitetura de Software"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Eliane Carvalho",
+    "foto": "https://i.pravatar.cc/150?img=20",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional especializado em dados com experiência em GitHub Actions e PostgreSQL",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "PostgreSQL",
+      "GitHub Actions",
+      "JavaScript",
+      "PHP",
+      "MongoDB",
+      "REST API"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Negociação",
+      "Empatia",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-11",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "UNICAMP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "DevOps",
+      "Cloud Computing",
+      "Arquitetura de Software"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Simone Freitas",
+    "foto": "https://i.pravatar.cc/150?img=21",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "Profissional especializado em gestão com experiência em AWS e Java",
+    "localizacao": "Goiânia/GO",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Kotlin",
+      "React",
+      "Swift",
+      "Java"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Análise crítica",
+      "Proatividade",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2021-06",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em gestão"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de Software",
+      "Agile"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Roberto Nascimento",
+    "foto": "https://i.pravatar.cc/150?img=22",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional especializado em desenvolvimento com experiência em Elasticsearch e GraphQL",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Elasticsearch",
+      "GraphQL",
+      "GitLab",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Data Scientist",
+        "inicio": "2022-05",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em desenvolvimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "PUC-SP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Beta",
+        "link": "https://github.com/robertonascimento/projeto",
+        "descricao": "Projeto desenvolvido utilizando Node.js e Elasticsearch"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "DevOps",
+      "UX/UI",
+      "Segurança",
+      "Arquitetura de Software"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Débora Araújo",
+    "foto": "https://i.pravatar.cc/150?img=23",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional especializado em qualidade com experiência em C# e Azure",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "C#",
+      "Azure",
+      "REST API",
+      "Elasticsearch"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Visão estratégica",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-02",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma Beta",
+        "link": "https://github.com/déboraaraújo/projeto",
+        "descricao": "Projeto desenvolvido utilizando Azure e REST API"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Machine Learning",
+      "Mobile Development"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Mariana Ribeiro",
+    "foto": "https://i.pravatar.cc/150?img=24",
+    "cargo": "Business Analyst",
+    "resumo": "Profissional especializado em infraestrutura com experiência em Jenkins e GitHub Actions",
+    "localizacao": "Salvador/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "GitHub Actions",
+      "Jenkins",
+      "JavaScript",
+      "PostgreSQL",
+      "React Native"
+    ],
+    "softSkills": [
+      "Análise crítica",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Business Analyst",
+        "inicio": "2023-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Beta",
+        "link": "https://github.com/marianaribeiro/projeto",
+        "descricao": "Projeto desenvolvido utilizando GitHub Actions e PostgreSQL"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Tais Gomes",
+    "foto": "https://i.pravatar.cc/150?img=25",
+    "cargo": "UX/UI Designer",
+    "resumo": "Profissional especializado em segurança com experiência em Jenkins e Python",
+    "localizacao": "Florianópolis/SC",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "PHP",
+      "Jenkins",
+      "Python",
+      "React",
+      "Elasticsearch"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Criatividade",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "UX/UI Designer",
+        "inicio": "2021-11",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em segurança"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Beta",
+        "link": "https://github.com/taisgomes/projeto",
+        "descricao": "Projeto desenvolvido utilizando Elasticsearch e Python"
+      }
+    ],
+    "certificacoes": [
+      "PMI Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Agile",
+      "Educação",
+      "Mobile Development"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Vanessa Barbosa",
+    "foto": "https://i.pravatar.cc/150?img=26",
+    "cargo": "Cybersecurity Analyst",
+    "resumo": "Profissional especializado em desenvolvimento com experiência em Python e Swift",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "TypeScript",
+      "MongoDB",
+      "Swift",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Mentoria",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Cybersecurity Analyst",
+        "inicio": "2020-07",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em desenvolvimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "PUCRS",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "DevOps",
+      "Machine Learning",
+      "Arquitetura de Software"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Eliane Carvalho",
+    "foto": "https://i.pravatar.cc/150?img=27",
+    "cargo": "Product Manager",
+    "resumo": "Profissional especializado em qualidade com experiência em Angular e Swift",
+    "localizacao": "Fortaleza/CE",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Swift",
+      "Angular",
+      "C#"
+    ],
+    "softSkills": [
+      "Mentoria",
+      "Análise crítica",
+      "Proatividade",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Product Manager",
+        "inicio": "2022-07",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "PUCRS",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Sistema Y",
+        "link": "https://github.com/elianecarvalho/projeto",
+        "descricao": "Projeto desenvolvido utilizando Angular e CI/CD"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "UX/UI",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Cristina Oliveira",
+    "foto": "https://i.pravatar.cc/150?img=28",
+    "cargo": "Business Analyst",
+    "resumo": "Profissional especializado em infraestrutura com experiência em Kubernetes e Redis",
+    "localizacao": "Brasília/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Redis",
+      "Vue.js",
+      "Node.js",
+      "Kubernetes",
+      "GCP",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Comunicação",
+      "Visão estratégica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Business Analyst",
+        "inicio": "2022-12",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma Beta",
+        "link": "https://github.com/cristinaoliveira/projeto",
+        "descricao": "Projeto desenvolvido utilizando Vue.js e Kubernetes"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de Software",
+      "Mobile Development",
+      "Sustentabilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Monique Freitas",
+    "foto": "https://i.pravatar.cc/150?img=29",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Profissional especializado em segurança com experiência em AWS e TypeScript",
+    "localizacao": "Brasília/DF",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Ruby",
+      "TypeScript",
+      "AWS",
+      "JavaScript",
+      "Azure"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Proatividade",
+      "Mentoria",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2023-12",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em segurança"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Z",
+        "link": "https://github.com/moniquefreitas/projeto",
+        "descricao": "Projeto desenvolvido utilizando Azure e TypeScript"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "UX/UI",
+      "Sustentabilidade",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Adriana Oliveira",
+    "foto": "https://i.pravatar.cc/150?img=30",
+    "cargo": "Tech Lead",
+    "resumo": "Profissional especializado em infraestrutura com experiência em React Native e GitLab",
+    "localizacao": "Brasília/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "GitLab",
+      "Ruby",
+      "GitHub Actions",
+      "GCP",
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "React Native"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Proatividade",
+      "Mentoria"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Tech Lead",
+        "inicio": "2021-12",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "UFRJ",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "Microsoft Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Sustentabilidade",
+      "Design Thinking",
+      "DevOps"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Rafaela Rodrigues",
+    "foto": "https://i.pravatar.cc/150?img=31",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional especializado em design com experiência em C# e C#",
+    "localizacao": "Brasília/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Docker",
+      "Microservices",
+      "MongoDB",
+      "C#",
+      "Node.js",
+      "React"
+    ],
+    "softSkills": [
+      "Análise crítica",
+      "Resolução de problemas",
+      "Visão estratégica",
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Data Scientist",
+        "inicio": "2021-06",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Sistema Y",
+        "link": "https://github.com/rafaelarodrigues/projeto",
+        "descricao": "Projeto desenvolvido utilizando C# e C#"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "DevOps",
+      "Educação",
+      "UX/UI"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Fernanda Mendes",
+    "foto": "https://i.pravatar.cc/150?img=32",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional especializado em design com experiência em REST API e Redis",
+    "localizacao": "Brasília/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Redis",
+      "Flutter",
+      "Microservices",
+      "Docker",
+      "Terraform",
+      "REST API",
+      "GitLab"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-06",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "UNICAMP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Beta",
+        "link": "https://github.com/fernandamendes/projeto",
+        "descricao": "Projeto desenvolvido utilizando Terraform e REST API"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Agile",
+      "UX/UI"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Renato Araújo",
+    "foto": "https://i.pravatar.cc/150?img=33",
+    "cargo": "Cloud Architect",
+    "resumo": "Profissional especializado em design com experiência em TypeScript e TypeScript",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Ruby",
+      "JavaScript",
+      "GCP",
+      "Go",
+      "C#",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Resiliência",
+      "Negociação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Cloud Architect",
+        "inicio": "2020-05",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFRJ",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "PMI Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Mobile Development",
+      "Educação"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Rodrigo Mendes",
+    "foto": "https://i.pravatar.cc/150?img=34",
+    "cargo": "Product Manager",
+    "resumo": "Profissional especializado em infraestrutura com experiência em Kotlin e Microservices",
+    "localizacao": "Campinas/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Kotlin",
+      "PostgreSQL",
+      "Microservices",
+      "React Native",
+      "GitHub Actions",
+      "Jenkins",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Criatividade",
+      "Proatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Product Manager",
+        "inicio": "2020-04",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Beta",
+        "link": "https://github.com/rodrigomendes/projeto",
+        "descricao": "Projeto desenvolvido utilizando Kotlin e React Native"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cloud Computing",
+      "UX/UI",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Tais Nascimento",
+    "foto": "https://i.pravatar.cc/150?img=35",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional especializado em gestão com experiência em MySQL e React",
+    "localizacao": "Florianópolis/SC",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Java",
+      "MySQL",
+      "Vue.js",
+      "Kotlin",
+      "Kubernetes",
+      "Swift",
+      "Docker",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-03",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em gestão"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Alpha",
+        "link": "https://github.com/taisnascimento/projeto",
+        "descricao": "Projeto desenvolvido utilizando Docker e MySQL"
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Machine Learning",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Diego Santos",
+    "foto": "https://i.pravatar.cc/150?img=36",
+    "cargo": "Product Manager",
+    "resumo": "Profissional especializado em desenvolvimento com experiência em Kubernetes e Terraform",
+    "localizacao": "Brasília/DF",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "GCP",
+      "Vue.js",
+      "Flutter",
+      "Terraform",
+      "Kubernetes",
+      "Swift"
+    ],
+    "softSkills": [
+      "Mentoria",
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Product Manager",
+        "inicio": "2022-06",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em desenvolvimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "PUCRS",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma Z",
+        "link": "https://github.com/diegosantos/projeto",
+        "descricao": "Projeto desenvolvido utilizando Flutter e Terraform"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Machine Learning",
+      "Educação"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Monique Souza",
+    "foto": "https://i.pravatar.cc/150?img=37",
+    "cargo": "UX/UI Designer",
+    "resumo": "Profissional especializado em segurança com experiência em Redis e GCP",
+    "localizacao": "Fortaleza/CE",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Swift",
+      "GCP",
+      "Python",
+      "Redis"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Proatividade",
+      "Adaptabilidade",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "UX/UI Designer",
+        "inicio": "2020-11",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em segurança"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Y",
+        "link": "https://github.com/moniquesouza/projeto",
+        "descricao": "Projeto desenvolvido utilizando Swift e Python"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Agile",
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Priscila Freitas",
+    "foto": "https://i.pravatar.cc/150?img=38",
+    "cargo": "Product Manager",
+    "resumo": "Profissional especializado em gestão com experiência em Elasticsearch e CI/CD",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "GitLab",
+      "Docker",
+      "CI/CD",
+      "Ansible",
+      "PostgreSQL",
+      "Elasticsearch"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Proatividade",
+      "Resolução de problemas",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Product Manager",
+        "inicio": "2021-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em gestão"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "PUCRS",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Sistema Beta",
+        "link": "https://github.com/priscilafreitas/projeto",
+        "descricao": "Projeto desenvolvido utilizando PostgreSQL e GitLab"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Mobile Development",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Renato Ferreira",
+    "foto": "https://i.pravatar.cc/150?img=39",
+    "cargo": "UX/UI Designer",
+    "resumo": "Profissional especializado em segurança com experiência em GraphQL e GraphQL",
+    "localizacao": "Goiânia/GO",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "C#",
+      "React",
+      "Swift",
+      "GraphQL",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Liderança",
+      "Resiliência",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "UX/UI Designer",
+        "inicio": "2023-05",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em segurança"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Alpha",
+        "link": "https://github.com/renatoferreira/projeto",
+        "descricao": "Projeto desenvolvido utilizando Swift e Kotlin"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Big Data",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Tais Barbosa",
+    "foto": "https://i.pravatar.cc/150?img=40",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "Profissional especializado em infraestrutura com experiência em GCP e GCP",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Vue.js",
+      "GCP",
+      "AWS",
+      "JavaScript",
+      "Angular",
+      "C#",
+      "Docker"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Negociação",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2023-05",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "UNICAMP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Agile"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Renato Freitas",
+    "foto": "https://i.pravatar.cc/150?img=41",
+    "cargo": "QA Engineer",
+    "resumo": "Profissional especializado em gestão com experiência em Kubernetes e Java",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Java",
+      "Flutter",
+      "Kubernetes",
+      "PostgreSQL",
+      "Docker",
+      "Swift"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Visão estratégica",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "QA Engineer",
+        "inicio": "2021-07",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em gestão"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "USP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Sistema Beta",
+        "link": "https://github.com/renatofreitas/projeto",
+        "descricao": "Projeto desenvolvido utilizando Kubernetes e Docker"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Cloud Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Big Data",
+      "Inovação",
+      "Arquitetura de Software",
+      "Educação"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Juliana Martins",
+    "foto": "https://i.pravatar.cc/150?img=42",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional especializado em dados com experiência em AWS e Node.js",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Vue.js",
+      "Java",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Resolução de problemas",
+      "Resiliência",
+      "Análise crítica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFMG",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma X",
+        "link": "https://github.com/julianamartins/projeto",
+        "descricao": "Projeto desenvolvido utilizando Node.js e Node.js"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Mobile Development",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Lucas Pereira",
+    "foto": "https://i.pravatar.cc/150?img=43",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "Profissional especializado em desenvolvimento com experiência em Elasticsearch e Jenkins",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Jenkins",
+      "Elasticsearch",
+      "GraphQL",
+      "Azure"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Resiliência",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2023-03",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em desenvolvimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "PUC-SP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Beta",
+        "link": "https://github.com/lucaspereira/projeto",
+        "descricao": "Projeto desenvolvido utilizando Azure e Elasticsearch"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "UX/UI",
+      "Big Data",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Bruna Silva",
+    "foto": "https://i.pravatar.cc/150?img=44",
+    "cargo": "Cybersecurity Analyst",
+    "resumo": "Profissional especializado em design com experiência em CI/CD e Elasticsearch",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Elasticsearch",
+      "PostgreSQL",
+      "GCP"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Empatia",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Cybersecurity Analyst",
+        "inicio": "2022-08",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "PUC-SP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Z",
+        "link": "https://github.com/brunasilva/projeto",
+        "descricao": "Projeto desenvolvido utilizando GCP e PostgreSQL"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Cloud Computing",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Fernanda Freitas",
+    "foto": "https://i.pravatar.cc/150?img=45",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "Profissional especializado em infraestrutura com experiência em React e MySQL",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "MySQL",
+      "PostgreSQL",
+      "Kubernetes",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Comunicação",
+      "Mentoria",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2021-10",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "UNICAMP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Sistema Alpha",
+        "link": "https://github.com/fernandafreitas/projeto",
+        "descricao": "Projeto desenvolvido utilizando Kotlin e Kotlin"
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Certified",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Mobile Development",
+      "Machine Learning",
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Eliane Costa",
+    "foto": "https://i.pravatar.cc/150?img=46",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "Profissional especializado em design com experiência em Elasticsearch e REST API",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "CI/CD",
+      "GCP",
+      "Vue.js",
+      "REST API",
+      "Elasticsearch"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Empatia",
+      "Trabalho em equipe",
+      "Negociação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2022-02",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "PUCRS",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Design Thinking",
+      "Arquitetura de Software",
+      "Inovação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Patricia Lima",
+    "foto": "https://i.pravatar.cc/150?img=47",
+    "cargo": "Arquiteto de Software",
+    "resumo": "Profissional especializado em design com experiência em JavaScript e Docker",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "Azure",
+      "MongoDB",
+      "JavaScript",
+      "Redis",
+      "GitLab",
+      "Docker"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Negociação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2022-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUCRS",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Aplicativo Alpha",
+        "link": "https://github.com/patricialima/projeto",
+        "descricao": "Projeto desenvolvido utilizando JavaScript e Azure"
+      }
+    ],
+    "certificacoes": [
+      "PMI Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Mobile Development",
+      "UX/UI",
+      "DevOps"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Michele Gomes",
+    "foto": "https://i.pravatar.cc/150?img=48",
+    "cargo": "Cybersecurity Analyst",
+    "resumo": "Profissional especializado em design com experiência em GCP e Python",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "GCP",
+      "Go",
+      "PostgreSQL",
+      "Flutter",
+      "Python",
+      "Java"
+    ],
+    "softSkills": [
+      "Organização",
+      "Visão estratégica",
+      "Negociação",
+      "Adaptabilidade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "Cybersecurity Analyst",
+        "inicio": "2023-11",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Y",
+        "link": "https://github.com/michelegomes/projeto",
+        "descricao": "Projeto desenvolvido utilizando Python e PostgreSQL"
+      }
+    ],
+    "certificacoes": [
+      "PMI Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "DevOps",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Aline Freitas",
+    "foto": "https://i.pravatar.cc/150?img=49",
+    "cargo": "Business Analyst",
+    "resumo": "Profissional especializado em gestão com experiência em Ansible e C#",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Flutter",
+      "Ansible",
+      "Swift",
+      "Node.js",
+      "Vue.js",
+      "PHP",
+      "C#",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Análise crítica",
+      "Visão estratégica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Business Analyst",
+        "inicio": "2022-03",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em gestão"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Beta",
+        "link": "https://github.com/alinefreitas/projeto",
+        "descricao": "Projeto desenvolvido utilizando Node.js e AWS"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "DevOps",
+      "Big Data"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Isabela Souza",
+    "foto": "https://i.pravatar.cc/150?img=50",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional especializado em qualidade com experiência em GitHub Actions e GitLab",
+    "localizacao": "Recife/PE",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Elasticsearch",
+      "GitLab",
+      "AWS",
+      "GitHub Actions"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resolução de problemas",
+      "Proatividade",
+      "Mentoria",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Mobile Developer",
+        "inicio": "2020-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Microsoft Certified",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Arquitetura de Software",
+      "Cloud Computing",
+      "UX/UI"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Mariana Ferreira",
+    "foto": "https://i.pravatar.cc/150?img=51",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Profissional especializado em dados com experiência em Azure e Flutter",
+    "localizacao": "Campinas/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "GCP",
+      "React Native",
+      "Flutter",
+      "Azure"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Análise crítica",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2022-12",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud Certified",
+      "PMI Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "DevOps",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Carlos Mendes",
+    "foto": "https://i.pravatar.cc/150?img=52",
+    "cargo": "Business Analyst",
+    "resumo": "Profissional especializado em design com experiência em Docker e Swift",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Swift",
+      "Docker",
+      "Kubernetes",
+      "C#",
+      "Ruby",
+      "React",
+      "GitLab"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Business Analyst",
+        "inicio": "2021-03",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "PUCRS",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Design Thinking"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Sabrina Martins",
+    "foto": "https://i.pravatar.cc/150?img=53",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Profissional especializado em infraestrutura com experiência em MongoDB e Jenkins",
+    "localizacao": "Salvador/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Jenkins",
+      "REST API",
+      "Java",
+      "Angular",
+      "C#",
+      "Kubernetes",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Adaptabilidade",
+      "Negociação",
+      "Visão estratégica",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2022-08",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "PMI Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Machine Learning",
+      "Segurança",
+      "DevOps"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Ricardo Gomes",
+    "foto": "https://i.pravatar.cc/150?img=54",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Profissional especializado em infraestrutura com experiência em Kubernetes e PostgreSQL",
+    "localizacao": "Brasília/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "REST API",
+      "Go",
+      "PostgreSQL",
+      "Kubernetes",
+      "Redis",
+      "Angular",
+      "GitHub Actions"
+    ],
+    "softSkills": [
+      "Análise crítica",
+      "Visão estratégica",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2021-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em infraestrutura"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "UFRJ",
+        "ano": 2021
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "Microsoft Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Machine Learning",
+      "Inovação",
+      "Arquitetura de Software"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Carlos Carvalho",
+    "foto": "https://i.pravatar.cc/150?img=55",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional especializado em dados com experiência em AWS e GCP",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "GCP",
+      "Microservices",
+      "JavaScript",
+      "AWS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Negociação",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Scrum Master",
+        "inicio": "2023-05",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de Software",
+      "Agile",
+      "Big Data",
+      "UX/UI"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Antonio Martins",
+    "foto": "https://i.pravatar.cc/150?img=56",
+    "cargo": "QA Engineer",
+    "resumo": "Profissional especializado em desenvolvimento com experiência em GitHub Actions e Kotlin",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Go",
+      "Node.js",
+      "Kotlin",
+      "REST API",
+      "GitHub Actions",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Group",
+        "cargo": "QA Engineer",
+        "inicio": "2020-08",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em desenvolvimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Plataforma Y",
+        "link": "https://github.com/antoniomartins/projeto",
+        "descricao": "Projeto desenvolvido utilizando Node.js e Node.js"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Agile",
+      "Design Thinking"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Ricardo Almeida",
+    "foto": "https://i.pravatar.cc/150?img=57",
+    "cargo": "QA Engineer",
+    "resumo": "Profissional especializado em dados com experiência em Swift e Swift",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Redis",
+      "React Native",
+      "Swift",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "QA Engineer",
+        "inicio": "2022-08",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2016
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Design Thinking",
+      "Agile"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Renato Ferreira",
+    "foto": "https://i.pravatar.cc/150?img=58",
+    "cargo": "Cloud Architect",
+    "resumo": "Profissional especializado em design com experiência em Angular e Terraform",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Azure",
+      "Terraform",
+      "Go",
+      "Angular"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Mentoria",
+      "Comunicação",
+      "Análise crítica",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Cloud Architect",
+        "inicio": "2020-03",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em design"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Sistema Beta",
+        "link": "https://github.com/renatoferreira/projeto",
+        "descricao": "Projeto desenvolvido utilizando Go e Angular"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud Computing",
+      "Inovação",
+      "Educação"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Juliana Almeida",
+    "foto": "https://i.pravatar.cc/150?img=59",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional especializado em qualidade com experiência em C# e MongoDB",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Go",
+      "Azure",
+      "C#",
+      "GCP",
+      "Angular",
+      "MySQL",
+      "MongoDB",
+      "React Native"
+    ],
+    "softSkills": [
+      "Mentoria",
+      "Resolução de problemas",
+      "Liderança",
+      "Negociação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Ltda",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-09",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto API Y",
+        "link": "https://github.com/julianaalmeida/projeto",
+        "descricao": "Projeto desenvolvido utilizando Azure e Angular"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Big Data",
+      "Cloud Computing",
+      "UX/UI"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Monique Martins",
+    "foto": "https://i.pravatar.cc/150?img=60",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional especializado em desenvolvimento com experiência em MongoDB e Ruby",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GitHub Actions",
+      "Redis",
+      "Ruby",
+      "MongoDB",
+      "Angular",
+      "Kotlin",
+      "Swift"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Liderança",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Inc",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-12",
+        "fim": "presente",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas em desenvolvimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de TI",
+        "instituicao": "PUCRS",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Cloud Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Big Data",
+      "Segurança"
+    ]
+  }
+]

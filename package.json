@@ -1,0 +1,33 @@
+{
+  "name": "webdev-frontend-gs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Plataforma web colaborativa voltada à conexão entre profissionais - Global Solution 2025",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GS-FIAP-2S/webdev-frontend-gs.git"
+  },
+  "keywords": [
+    "react",
+    "tailwind",
+    "professional-network"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18",
+    "vite": "^7.2.4"
+  }
+}
