@@ -3,8 +3,11 @@ import profissionaisData from './data/profissionais.json'
 import ProfileCard from './components/ProfileCard'
 import ProfileModal from './components/ProfileModal'
 import SearchBar from './components/SearchBar'
+import Login from './components/Login'
 
 function App() {
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
+  const [currentUser, setCurrentUser] = useState(null)
   const [profissionais, setProfissionais] = useState([])
   const [filteredProfissionais, setFilteredProfissionais] = useState([])
   const [selectedProfissional, setSelectedProfissional] = useState(null)
@@ -14,6 +17,16 @@ function App() {
   const [filterArea, setFilterArea] = useState('')
   const [filterCidade, setFilterCidade] = useState('')
   const [filterTecnologia, setFilterTecnologia] = useState('')
+
+  const handleLogin = (user) => {
+    setCurrentUser(user)
+    setIsAuthenticated(true)
+  }
+
+  const handleLogout = () => {
+    setIsAuthenticated(false)
+    setCurrentUser(null)
+  }
 
   useEffect(() => {
     setProfissionais(profissionaisData)
@@ -85,22 +98,42 @@ function App() {
   const cidades = [...new Set(profissionais.map(p => p.localizacao))].sort()
   const tecnologias = [...new Set(profissionais.flatMap(p => p.habilidadesTecnicas))].sort()
 
+  // Se não estiver autenticado, mostrar tela de login
+  if (!isAuthenticated) {
+    return <Login onLogin={handleLogin} />
+  }
+
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-200">
       {/* Header */}
       <header className="bg-white dark:bg-gray-800 shadow-md sticky top-0 z-40">
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-bold text-gray-800 dark:text-white">
-              Futuro do Trabalho
-            </h1>
-            <button
-              onClick={() => setDarkMode(!darkMode)}
-              className="p-2 rounded-lg bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-white hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
-              aria-label="Toggle dark mode"
-            >
-              {darkMode ? '☀️' : '🌙'}
-            </button>
+            <div className="flex items-center gap-4">
+              <h1 className="text-2xl font-bold text-gray-800 dark:text-white">
+                Futuro do Trabalho
+              </h1>
+              {currentUser && (
+                <span className="text-sm text-gray-600 dark:text-gray-400">
+                  Olá, {currentUser.nome}!
+                </span>
+              )}
+            </div>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={handleLogout}
+                className="px-4 py-2 text-sm bg-red-500 hover:bg-red-600 text-white rounded-lg transition-colors"
+              >
+                Sair
+              </button>
+              <button
+                onClick={() => setDarkMode(!darkMode)}
+                className="p-2 rounded-lg bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-white hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                aria-label="Toggle dark mode"
+              >
+                {darkMode ? '☀️' : '🌙'}
+              </button>
+            </div>
           </div>
         </div>
       </header>

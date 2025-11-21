@@ -156,9 +156,33 @@ O botão no header permite alternar entre tema claro e escuro. A preferência é
 
 https://github.com/GS-FIAP-2S/webdev-frontend-gs
 
+## 🔐 Sistema de Login
+
+O projeto inclui uma tela de login mockada (simulada) para demonstração. Após iniciar a aplicação, você será direcionado para a tela de login.
+
+### 👤 Usuários para Teste
+
+Os seguintes usuários estão disponíveis para teste:
+
+| Email              | Senha      | Nome          |
+| ------------------ | ---------- | ------------- |
+| `admin@fiap.com`   | `admin123` | Administrador |
+| `usuario@fiap.com` | `user123`  | Usuário Teste |
+| `teste@fiap.com`   | `teste123` | Usuário Demo  |
+
+### 📋 Como Fazer Login
+
+1. Inicie a aplicação com `npm run dev`
+2. Você será direcionado para a tela de login
+3. Digite um dos emails e senhas listados acima
+4. Clique em "Entrar"
+5. Após o login bem-sucedido, você terá acesso à plataforma
+
+**Nota:** O sistema de login é apenas uma simulação (mock) para fins de demonstração. Não há validação real de autenticação ou conexão com banco de dados.
+
 ## 📝 Notas Importantes
 
-- O projeto não possui sistema de autenticação, portanto não há usuários e senhas
+- O projeto possui um sistema de login mockado para demonstração
 - Os dados são estáticos, carregados do arquivo JSON local
 - As ações de "Recomendar" e "Enviar Mensagem" exibem alertas de confirmação (simulação)
 - As fotos dos perfis são geradas aleatoriamente usando o serviço pravatar.cc
