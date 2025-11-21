@@ -50,6 +50,8 @@ A plataforma foi desenvolvida como uma Single Page Application (SPA) utilizando 
    cd webdev-frontend-gs
    ```
 
+   **Ou acesse diretamente a aplicação online**: [https://webdev-frontend-gs.vercel.app](https://webdev-frontend-gs.vercel.app)
+
 2. **Instale as dependências**:
 
    ```bash
@@ -152,9 +154,10 @@ Ao clicar em um card, abre-se um modal com:
 
 O botão no header permite alternar entre tema claro e escuro. A preferência é aplicada globalmente na aplicação.
 
-## 🔗 Link do Repositório
+## 🔗 Links do Projeto
 
-https://github.com/GS-FIAP-2S/webdev-frontend-gs
+- **🌐 Aplicação Online (Vercel)**: [https://webdev-frontend-gs.vercel.app](https://webdev-frontend-gs.vercel.app)
+- **📦 Repositório GitHub**: [https://github.com/GS-FIAP-2S/webdev-frontend-gs](https://github.com/GS-FIAP-2S/webdev-frontend-gs)
 
 ## 🔐 Sistema de Login
 
@@ -180,6 +183,14 @@ Os seguintes usuários estão disponíveis para teste:
 
 **Nota:** O sistema de login é apenas uma simulação (mock) para fins de demonstração. Não há validação real de autenticação ou conexão com banco de dados.
 
+## 🌐 Acesso Online
+
+A aplicação está disponível online através da Vercel:
+
+**🔗 URL da Aplicação**: [https://webdev-frontend-gs.vercel.app](https://webdev-frontend-gs.vercel.app)
+
+Você pode acessar a aplicação diretamente pelo navegador sem necessidade de instalação local. Use os usuários de teste listados na seção [Sistema de Login](#-sistema-de-login) para fazer login.
+
 ## 📝 Notas Importantes
 
 - O projeto possui um sistema de login mockado para demonstração
@@ -187,6 +198,7 @@ Os seguintes usuários estão disponíveis para teste:
 - As ações de "Recomendar" e "Enviar Mensagem" exibem alertas de confirmação (simulação)
 - As fotos dos perfis são geradas aleatoriamente usando o serviço pravatar.cc
 - O projeto está configurado para não incluir a pasta `node_modules` no repositório
+- A aplicação está hospedada na Vercel com deploy automático a cada push no repositório
 
 ## 🚀 Scripts Disponíveis
 
